@@ -9,6 +9,8 @@
                  https://www.facebook.com/bhataasim4
             Twitter
                  https://www.twitter.com/bhataasim9
+            portfolio:
+                 https://bhataasim.github.io/portfolio/index.html
 
 <!---
 bhataasim1/bhataasim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
