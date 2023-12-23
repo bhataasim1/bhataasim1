@@ -32,10 +32,10 @@ Versatile and passionate ethical hacker, bug hunter, and software engineer with 
 <!-- Experience -->
 ## Experience
 
-- **Hack The Box - Rank Pro Hacker** (January 2016 - Present)
+- **Hack The Box - Rank Pro Hacker**
     - Ranked in the top 169 globally and top 50 in India on Hack The Box, the #1 cybersecurity upskilling, certification, and talent assessment platform (Profile: [AX01Sec](https://app.hackthebox.com/profile/1113021))
 
-- **Try Hack Me - Rank Top 3%** (March 2018 - Present)
+- **Try Hack Me - Rank Top 3%**
     - Currently holding a top 260997 ranking (top 3% worldwide) on Try Hack Me, showcasing a solid foundation in cybersecurity skills and knowledge. (Profile: [bhataasim](https://tryhackme.com/p/bhataasim))
 
 - **Bug Bounty Platforms - Part-Time Bug Hunter**
