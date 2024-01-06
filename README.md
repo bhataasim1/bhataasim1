@@ -86,6 +86,6 @@ Versatile and passionate ethical hacker, bug hunter, and software engineer with 
 
 Feel free to connect with me on LinkedIn, follow me on GitHub, or reach out via email.
 
-[LinkedIn](https://www.linkedin.com/in/aasim-ashraf-b4726b115/) | [GitHub](https://github.com/bhataasim1) | [Email](mailto:bhataasimofficial@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aasim-bhat-b4726b115/) | [GitHub](https://github.com/bhataasim1) | [Email](mailto:bhataasimofficial@gmail.com)
 
 <!-- End of README -->
