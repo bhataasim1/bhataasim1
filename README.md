@@ -23,11 +23,13 @@ Versatile and passionate ethical hacker, bug hunter, and software engineer with 
 <!-- Skills -->
 ## Skills
 
-- **Tools:** Kali Linux, Burp Suite, OWASP ZAP, SQLMap, WireShark, Nmap, Metasploit, CME, Impacket etc.
-- **Languages:** HTML/CSS, JavaScript, PHP, Python, C++, Java, C
-- **Frameworks and Libraries:** Laravel, Tailwind, Bootstrap
-- **Databases:** MySQL, SQLite, PostgreSQL
-- **Miscellaneous:** Linux, Git & GitHub, Docker, Postman
+- **Hacking Tools:** Kali Linux, Burp Suite, OWASP ZAP, SQLMap, WireShark, Nmap, Metasploit, CME, Impacket etc.
+- **Languages:** HTML/CSS, JavaScript/TypeScript, PHP, Python, C++, Java
+- **Frameworks and Libraries:** ReactJs, NextJs, NodeJs (ExpressJs), Laravel, FastAPI, Flask, Tailwind, Bootstrap
+- **Databases & ORMs:** MySQL, SQLite, PostgreSQL, Eloquent (Laravel), Prisma, SQLAlchemy
+- **Cloud:** AWS, Azure
+- **Communication:** Rest APIs
+- **Miscellaneous:** Linux (Ubuntu, Kali-Linux), Git & GitHub, Docker, Postman, NPM, Apache, NGINX, Firebase, PIP, Composer, Vite 
 
 <!-- Experience -->
 ## Experience
